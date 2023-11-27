@@ -1,4 +1,4 @@
-package com.regLogin.Entities.Repository;
+package com.regLogin.Repository;
 
 import com.regLogin.Entities.User;
 import org.springframework.data.jpa.repository.JpaRepository;
